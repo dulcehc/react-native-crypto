@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 1499,
+  "expoServerNgrokUrl": "https://cm-avf.dulcehc.crypto-tracker.exp.direct",
+  "packagerNgrokUrl": "https://packager.cm-avf.dulcehc.crypto-tracker.exp.direct",
+  "ngrokPid": 1557,
+  "webpackServerPort": null
+}
